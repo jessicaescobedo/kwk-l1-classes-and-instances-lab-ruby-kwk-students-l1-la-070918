@@ -6,6 +6,6 @@ class Dog
   end 
 end 
 
-dogs = Dog.new ("fido","snoopy","lassie")
+dogs = Dog.new("fido","snoopy","lassie")
 
 puts dogs.name 
