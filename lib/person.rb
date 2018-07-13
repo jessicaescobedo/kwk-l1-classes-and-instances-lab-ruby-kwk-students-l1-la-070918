@@ -2,4 +2,4 @@
 
 class Person
   
-  attr_accessor :
+  attr_accessor :adele_
