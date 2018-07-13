@@ -12,6 +12,10 @@ end
 
 person_name = Person.new("adele_goldberg","alan_kay")
 
+puts person_name.adele_goldberg
+puts person_name.alan_kay
+
+
 
   
   
