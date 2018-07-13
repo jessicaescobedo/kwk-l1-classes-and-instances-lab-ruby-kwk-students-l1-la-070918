@@ -9,4 +9,3 @@ end
 dogs = Dog.new ("fido","snoopy","lassie")
 
 puts dogs.name 
-puts 
