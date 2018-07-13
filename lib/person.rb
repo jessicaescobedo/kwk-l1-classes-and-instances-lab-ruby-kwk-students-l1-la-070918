@@ -10,7 +10,8 @@ def initialize(adele_goldberg,alan_kay)
   end 
 end 
 
-person_name = Person.new()
+person_name = Person.new("adele_goldberg","alan_kay")
+
 
   
   
