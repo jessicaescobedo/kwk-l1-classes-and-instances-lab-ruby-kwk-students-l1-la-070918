@@ -10,6 +10,8 @@ class Dog
   end 
 end 
 
-dogs = Dog.new("Fido","Snoopy","Lassie")
+dogs_one = Dog.new("Fido","Snoopy","Lassie")
 
-puts dogs.name.fido  
+puts dogs_name.fido
+puts dogs_name.snoopy
+puts dogs_name.lassie
