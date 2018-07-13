@@ -12,4 +12,4 @@ end
 
 dogs = Dog.new("Fido","Snoopy","Lassie")
 
-puts dogs.name 
+puts dogs.name.fido  
